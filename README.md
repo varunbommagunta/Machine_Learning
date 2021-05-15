@@ -1,2 +1,2 @@
 # Machine Learning
-Repository containing Machine Learning Algorithms
+Repository containing Machine Learning Algorithms.
